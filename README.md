@@ -1,4 +1,4 @@
-# CNN–Vision Transformer Land Classification
+# AI Capstone CNN–Vision Transformer Land Classification
 
 ## Overview
 This project implements and evaluates a hybrid CNN–Vision Transformer (ViT) architecture for land classification using satellite imagery.
