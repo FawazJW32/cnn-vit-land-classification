@@ -1,4 +1,4 @@
-# AI Capstone CNN–Vision Transformer Land Classification
+# CNN–Vision Transformer Land Classification
 
 ## Overview
 This project implements and evaluates a hybrid CNN–Vision Transformer (ViT) architecture for land classification using satellite imagery.
@@ -10,6 +10,7 @@ The pipeline demonstrates how convolutional neural networks extract local spatia
 - Vision Transformer for global context modeling
 - Implementations in both Keras (TensorFlow) and PyTorch
 - Comparative evaluation across frameworks
+- Capstone project for IBM AI Engineering Professional Certificate
 
 ## Project Structure
 - `notebooks/` – Core implementations and evaluation notebooks
